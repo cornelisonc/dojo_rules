@@ -4,3 +4,4 @@ Hi, I'm Ceili
 * Working in a lot of PHP
 * Git Guru
 * Electives
+* Killing history using git rebase
